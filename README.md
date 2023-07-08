@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# Welcome to my GitHub Profile!
+# Welcome!
 
-I'm Voislav (he/him), a Site Reliability Engineer at Mews. I enjoy learning & tinkering with new tech, IoT devices, contribute to open-source projects, and sharing my knowledge through blog posts.
+I'm Voislav, a Site Reliability Engineer at Mews. I enjoy learning & tinkering with new tech, IoT devices, contribute to open-source projects, and sharing my knowledge through blog posts.
 
 I sometimes blog at: [https://thelazysre.com/](https://thelazysre.com/)
 
