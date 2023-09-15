@@ -6,7 +6,7 @@ I'm Voislav, a Site Reliability Engineer at Mews. I enjoy learning & tinkering w
 
 I sometimes blog at: [https://thelazysre.com/](https://thelazysre.com/)
 
-## Connect with Voislav Vasiljevski
+## Connect with me
 
 Feel free to connect with me on social media and visit my blog for more information:
 
