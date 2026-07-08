@@ -2,7 +2,7 @@
 
 # Welcome!
 
-I'm Voyo, a Platform Engineer at Mews. I enjoy learning & tinkering with new tech, IoT devices, sometimes contribute to open-source projects.
+I'm Voyo, a Platform Engineer/SRE (ex-Mews). I enjoy learning & tinkering with new tech, IoT devices, sometimes contribute to open-source projects.
 
 I sometimes blog at: [https://thelazysre.com/](https://thelazysre.com/)
 
